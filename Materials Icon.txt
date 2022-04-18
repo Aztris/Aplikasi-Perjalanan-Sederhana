@@ -1,0 +1,9 @@
+user-default = https://www.pngitem.com/pimgs/m/80-800194_transparent-users-icon-png-flat-user-icon-png.png
+
+user = https://toppng.com//public/uploads/preview/user-account-management-logo-user-icon-11562867145a56rus2zwu.png
+
+write = https://icons-for-free.com/iconfiles/png/512/compose+draw+edit+write+icon-1320196713151339744.png
+
+note = https://icons-for-free.com/iconfiles/png/512/law+note+paper+scroll+terms+text+write+icon-1320190821016152107.png
+
+add = https://findicons.com/files/icons/2443/bunch_of_cool_bluish_icons/256/add.png
